@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/flask",
+    "prod_uri": "mysql://root:@localhost/flask",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "no_of_posts": 4,
+    "gmail-user": "enter gmail",
+    "gmail-pass": "enter pass",
+    "admin_user": "admin",
+    "admin_password": "admin",
+    "upload_location": "E:\\Python Project\\Harry\\static\\img"
+  }
+}
